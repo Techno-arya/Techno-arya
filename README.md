@@ -2,9 +2,11 @@
 
 # 👋 Arya! 🎮 ✨
 
+
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Techno-arya/count.svg" alt="Visitor Count" />
+  <img src="https://img.shields.io/badge/Profile_Views-100%2B-blue?style=for-the-badge&logo=github" alt="Visitor Count" />
 </p>
+
 
 
 *Vibing to epic beats 🎧 | Building Full-Stack Apps 💻 | Conquering Code 🚀*
@@ -73,16 +75,18 @@ From crafting dynamic frontends to architecting solid backends with Python, JS, 
 </div>
 ---
 
-### ⚡ Weekly Coding Activity
+### ⚡ Technologies & Active Stack
 
 <div align="center">
 
-<a href="https://github.com/Techno-arya">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Techno-arya&layout=compact&theme=dark&hide_border=false" alt="Top Languages" />
-</a>
+| Language / Tech | Level | Status |
+| :--- | :--- | :--- |
+| <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> | Advanced | Active Daily 🟢 |
+| <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> | Intermediate | Building Projects 🟡 |
+| <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /> | Intermediate | Learning & OOP 🟡 |
+| <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> | Beginner / Inter | Frontend Dev 🔵 |
 
 </div>
-
 
 ### 🧪 Epic Projects & Quests
 
