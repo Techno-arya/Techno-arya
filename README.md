@@ -2,6 +2,11 @@
 
 # 👋 Arya! 🎮 ✨
 
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Techno-arya/count.svg" alt="Visitor Count" />
+</p>
+
+
 *Vibing to epic beats 🎧 | Building Full-Stack Apps 💻 | Conquering Code 🚀*
 
 An aspiring Full-Stack Developer slingin' Python, JavaScript, and Java to build awesome web apps! 🚀
@@ -54,6 +59,12 @@ From crafting dynamic frontends to architecting solid backends with Python, JS, 
 
 <br/>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Techno-arya/Techno-arya/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Techno-arya/Techno-arya/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Techno-arya/Techno-arya/output/github-contribution-grid-snake.svg">
+</picture>
+
 | **Most Used Languages & Skills** |
 | :--- |
 | 🐍 **Python** `40%` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📜 **JavaScript** `30%` |
@@ -61,6 +72,17 @@ From crafting dynamic frontends to architecting solid backends with Python, JS, 
 
 </div>
 ---
+
+### ⚡ Weekly Coding Activity
+
+<div align="center">
+
+<a href="https://github.com/Techno-arya">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Techno-arya&layout=compact&theme=dark&hide_border=false" alt="Top Languages" />
+</a>
+
+</div>
+
 
 ### 🧪 Epic Projects & Quests
 
@@ -95,6 +117,19 @@ Ready to vibe on code or build something cool? Hit me up! ☕
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
+
+<p align="left">
+  <a href="https://instagram.com/YOUR_INSTAGRAM" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:aryatherockyone@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/Techno-arya?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/Explore_Repos-100000?style=for-the-badge&logo=github&logoColor=white" alt="Repos" />
+  </a>
+</p>
+
 
 ### 📜 Copyright & License
 
