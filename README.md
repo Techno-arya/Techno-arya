@@ -49,8 +49,8 @@ From slicing through Python code like a samurai to backtesting strategies with n
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="185" src="https://github-readme-stats.vercel.app/api?username=Techno-arya&show_icons=true&theme=dark&hide_border=false" alt="GitHub Stats" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="185" src="https://github-readme-streak-stats.herokuapp.com/?user=Techno-arya&theme=dark&hide_border=false" alt="GitHub Streak" />
+<a href="https://github.com/denvercoder1/github-readme-streak-stats">
+  <img height="185" src="https://streak-stats.demolab.com/?user=Techno-arya&theme=dark&hide_border=false" alt="GitHub Streak" />
 </a>
 
 <br/>
