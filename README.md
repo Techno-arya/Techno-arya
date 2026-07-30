@@ -95,3 +95,14 @@ Ready to vibe on code or build something cool? Hit me up! ☕
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
+
+### 📜 Copyright & License
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Copyright-2026_Arya-blue?style=flat-square" alt="Copyright" />
+  <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="License" />
+</p>
+
+© 2026 **Arya** (`Techno-arya`). All rights reserved.
+
+
