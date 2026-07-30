@@ -1,10 +1,12 @@
 <div align="center">
 
-# 👋 Arya! 🎮 ✨
-
 <p align="center">
   <img src="https://img.shields.io/badge/Profile_Views-100%2B-blue?style=for-the-badge&logo=github" alt="Visitor Count" />
 </p>
+
+
+# 👋 Arya! 🎮 ✨
+
 
 *Vibing to epic beats 🎧 | Building Full-Stack Apps 💻 | Conquering Code 🚀*
 
@@ -131,7 +133,7 @@ From crafting dynamic frontends to architecting solid backends with Python, JS, 
 
 Ready to vibe on code or build something cool? Hit me up! ☕
 
-<p align="left">
+<p align="center">
   <a href="https://instagram.com/YOUR_INSTAGRAM" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
@@ -145,6 +147,8 @@ Ready to vibe on code or build something cool? Hit me up! ☕
     <img src="https://img.shields.io/badge/Explore_Repos-100000?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
   </a>
 </p>
+
+</div>
 
 </div>
 
