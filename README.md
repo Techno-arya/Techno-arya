@@ -51,12 +51,18 @@ From crafting dynamic frontends to architecting solid backends with Python, JS, 
 
 ### 🏆 Developer Skill Ranks
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python_Developer-Rank_3_%E2%80%A2_Elite-FFD700?style=for-the-badge&logo=python&logoColor=white&color=D4AF37" alt="Python Elite Rank 3" />
-  <img src="https://img.shields.io/badge/JavaScript_Developer-Rank_2_%E2%80%A2_Platinum-E5E4E2?style=for-the-badge&logo=javascript&logoColor=black&color=708090" alt="JS Platinum Rank 2" />
-  <img src="https://img.shields.io/badge/Java_Developer-Rank_1_%E2%80%A2_Gold-FFD700?style=for-the-badge&logo=openjdk&logoColor=white&color=B8860B" alt="Java Gold Rank 1" />
+<p align="center">
+  <!-- Python Elite Rank 3 -->
+  <img src="https://raw.githubusercontent.com/Techno-arya/Techno-arya/main/badges/python-badge.png" height="150" alt="Python Developer Rank 3 Elite" />
+  &nbsp;&nbsp;&nbsp;&nbsp; <!-- Spacing -->
+  <!-- JavaScript Platinum Rank 2 -->
+  <img src="https://raw.githubusercontent.com/Techno-arya/Techno-arya/main/badges/js-badge.png" height="150" alt="JS Developer Rank 2 Platinum" />
+  &nbsp;&nbsp;&nbsp;&nbsp; <!-- Spacing -->
+  <!-- Java Gold Rank 1 -->
+  <img src="https://raw.githubusercontent.com/Techno-arya/Techno-arya/main/badges/java-badge.png" height="150" alt="Java Developer Rank 1 Gold" />
 </p>
 
+---
 ### 📊 GitHub Stats & Grind
 
 <div align="center">
