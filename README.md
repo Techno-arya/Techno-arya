@@ -35,11 +35,11 @@ From crafting dynamic frontends to architecting solid backends with Python, JS, 
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1000&color=FF4500&center=true&vCenter=true&width=550&lines=%F0%9F%8F%86+RANK+3+ELITE+PYTHON+DEVELOPER;%F0%9F%8F%86+RANK+3+ELITE+JAVASCRIPT+DEV;%F0%9F%8F%86+RANK+3+ELITE+JAVA+DEVELOPER;%F0%9F%9A%80+GIT+%26+DEV+OPS+GRANDMASTER" alt="Blazing Rank Status" />
   </a>
   <p align="center">
-    <img src="https://img.shields.io/badge/Python_Dev-Rank_3_%E2%80%A2_Elite-FF4500?style=for-the-badge&logo=python&logoColor=FFD700" alt="Python Badge" />
-    <img src="https://img.shields.io/badge/JS_Dev-Rank_3_%E2%80%A2_Elite-FF6347?style=for-the-badge&logo=javascript&logoColor=FFD700" alt="JavaScript Badge" />
-    <img src="https://img.shields.io/badge/Java_Dev-Rank_3_%E2%80%A2_Elite-FF8C00?style=for-the-badge&logo=openjdk&logoColor=FFD700" alt="Java Badge" />
-    <img src="https://img.shields.io/badge/Git_Specialist-Grandmaster_Level-D4AF37?style=for-the-badge&logo=git&logoColor=FF4500" alt="Git Badge" />
-  </p>
+  <img src="./badges/python.png" alt="Python Badge" height="40" />
+  <img src="./badges/JS.png" alt="JavaScript Badge" height="40" />
+  <img src="./badges/jAVA.png" alt="Java Badge" height="40" />
+  <img src="./badges/github.png" alt="Git Badge" height="40" />
+</p>
 </div>
 
 
