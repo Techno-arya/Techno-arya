@@ -36,8 +36,8 @@ From crafting dynamic frontends to architecting solid backends with Python, JS, 
   </a>
   <p align="center">
     <img src="https://img.shields.io/badge/Python_Dev-Rank_3_%E2%80%A2_Elite-FF4500?style=for-the-badge&logo=python&logoColor=FFD700" alt="Python Badge" />
-    <img src="https://img.shields.io/badge/JS_Dev-Rank_2_%E2%80%A2_Platinum-FF6347?style=for-the-badge&logo=javascript&logoColor=FFD700" alt="JavaScript Badge" />
-    <img src="https://img.shields.io/badge/Java_Dev-Rank_1_%E2%80%A2_Gold-FF8C00?style=for-the-badge&logo=openjdk&logoColor=FFD700" alt="Java Badge" />
+    <img src="https://img.shields.io/badge/JS_Dev-Rank_3_%E2%80%A2_Platinum-FF6347?style=for-the-badge&logo=javascript&logoColor=FFD700" alt="JavaScript Badge" />
+    <img src="https://img.shields.io/badge/Java_Dev-Rank_3_%E2%80%A2_Gold-FF8C00?style=for-the-badge&logo=openjdk&logoColor=FFD700" alt="Java Badge" />
     <img src="https://img.shields.io/badge/Git_Specialist-Grandmaster_Level-D4AF37?style=for-the-badge&logo=git&logoColor=FF4500" alt="Git Badge" />
   </p>
 </div>
