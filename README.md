@@ -28,23 +28,6 @@ From crafting dynamic frontends to architecting solid backends with Python, JS, 
 
 ---
 
-<div align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1000&color=FF4500&center=true&vCenter=true&width=550&lines=%F0%9F%94%A5+AWAKENING+ANCIENT+POWER...;%E2%9C%A8+GLORIOUS+LIGHT+UNLOCKED;%F0%9F%8F%86+RANK+3+ELITE+PYTHON+DEVELOPER;%E2%9A%94%EF%B8%8F+RANK+2+PLATINUM+JAVASCRIPT+DEV;%F0%9F%9B%A1%EF%B8%8F+RANK+1+GOLD+JAVA+DEVELOPER;%F0%9F%9A%80+GIT+%26+DEV+OPS+EXPERT" alt="Blazing Rank Status" />
-  </a>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./badges/all-badges.gif">
-    <source media="(prefers-color-scheme: light)" srcset="./badges/all-badges.png">
-    <img src="./badges/all-badges.gif" width="95%" alt="Blazing Developer Skill Ranks" />
-  </picture>
-</div>
-
-
-
-
-
-
-
 ### 🚀 Tech Stack & Languages
 
 <p align="center">
