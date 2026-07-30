@@ -48,6 +48,15 @@ From crafting dynamic frontends to architecting solid backends with Python, JS, 
 
 ---
 
+
+### 🏆 Developer Skill Ranks
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python_Developer-Rank_3_%E2%80%A2_Elite-FFD700?style=for-the-badge&logo=python&logoColor=white&color=D4AF37" alt="Python Elite Rank 3" />
+  <img src="https://img.shields.io/badge/JavaScript_Developer-Rank_2_%E2%80%A2_Platinum-E5E4E2?style=for-the-badge&logo=javascript&logoColor=black&color=708090" alt="JS Platinum Rank 2" />
+  <img src="https://img.shields.io/badge/Java_Developer-Rank_1_%E2%80%A2_Gold-FFD700?style=for-the-badge&logo=openjdk&logoColor=white&color=B8860B" alt="Java Gold Rank 1" />
+</p>
+
 ### 📊 GitHub Stats & Grind
 
 <div align="center">
@@ -117,10 +126,7 @@ Ready to vibe on code or build something cool? Hit me up! ☕
   <a href="mailto:aryatherockyone@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/Techno-arya?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/Explore_Repos-100000?style=for-the-badge&logo=github&logoColor=white" alt="Repos" />
-  </a>
-</p>
+ 
 
 <a href="https://discord.com/users/1256948674630782977" target="_blank">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
