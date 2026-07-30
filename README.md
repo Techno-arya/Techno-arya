@@ -111,18 +111,6 @@ From crafting dynamic frontends to architecting solid backends with Python, JS, 
 Ready to vibe on code or build something cool? Hit me up! ☕
 
 <p align="left">
-  <a href="https://instagram.com/arya_yo_123456" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-
-
-<p align="left">
-  <a href="mailto:aryatherockyone@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
-<p align="left">
   <a href="https://instagram.com/YOUR_INSTAGRAM" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
@@ -133,6 +121,15 @@ Ready to vibe on code or build something cool? Hit me up! ☕
     <img src="https://img.shields.io/badge/Explore_Repos-100000?style=for-the-badge&logo=github&logoColor=white" alt="Repos" />
   </a>
 </p>
+
+<a href="https://discord.com/users/1256948674630782977" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+</a>
+
+
+<a href="https://github.com/Techno-arya?tab=repositories" target="_blank">
+  <img src="https://img.shields.io/badge/Explore_Repos-100000?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+</a>
 
 
 ### 📜 Copyright & License
