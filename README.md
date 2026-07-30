@@ -68,7 +68,7 @@ From crafting dynamic frontends to architecting solid backends with Python, JS, 
 * 🤖 **Python Utility Scripts** 🐍 : Automating workflows and solving core programmatic tasks.
 * ☕ **Java OOP Applications** 🏗️ : Clean, object-oriented software projects and data structure implementations.
 
-*Level up with my [repos](https://github.com/Techno-arya?tab=repositories)!*
+
 
 ---
 
