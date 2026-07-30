@@ -46,17 +46,17 @@ From slicing through Python code like a samurai to backtesting strategies with n
 
 <div align="center">
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="185" src="https://github-readme-stats.vercel.app/api?username=Techno-arya&show_icons=true&theme=dark&hide_border=false" alt="GitHub Stats" />
+<a href="https://github.com/Techno-arya">
+  <img height="185" src="https://github-readme-stats.vercel.app/api?username=Techno-arya&show_icons=true&theme=dark&hide_border=false" alt="Arya's GitHub Stats" />
 </a>
-<a href="https://github.com/denvercoder1/github-readme-streak-stats">
-  <img height="185" src="https://streak-stats.demolab.com/?user=Techno-arya&theme=dark&hide_border=false" alt="GitHub Streak" />
+<a href="https://github.com/Techno-arya">
+  <img height="185" src="https://streak-stats.demolab.com/?user=Techno-arya&theme=dark&hide_border=false" alt="Arya's Streak" />
 </a>
 
 <br/>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Techno-arya&layout=compact&theme=dark&hide_border=false" alt="Most Used Languages" />
+<a href="https://github.com/Techno-arya">
+  <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Techno-arya&layout=compact&theme=dark&hide_border=false" alt="Arya's Top Languages" />
 </a>
 
 </div>
