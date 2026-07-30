@@ -85,6 +85,12 @@ From crafting dynamic frontends to architecting solid backends with Python, JS, 
 Ready to vibe on code or build something cool? Hit me up! ☕
 
 <p align="left">
+  <a href="https://instagram.com/arya_yo_123456" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+
+
+<p align="left">
   <a href="mailto:aryatherockyone@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
