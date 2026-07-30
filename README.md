@@ -155,11 +155,8 @@ Ready to vibe on code or build something cool? Hit me up! ☕
 ---
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&weight=400&size=50&pause=2000&color=FFFFFF&center=false&vCenter=true&width=350&height=80&lines=Arya;Techno-arya" alt="Arya Signature" />
+  <img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&weight=400&size=35&pause=2000&color=FFFFFF&center=false&vCenter=true&width=250&height=50&lines=Arya;Techno-Arya" alt="Arya Signature" />
 </p>
-
-
-
 
 
 <div align="right">
