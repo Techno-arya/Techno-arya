@@ -31,15 +31,15 @@ From crafting dynamic frontends to architecting solid backends with Python, JS, 
 ### 🚀 Tech Stack & Languages
 
 <div align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/"Techno-arya">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1000&color=FF4500&center=true&vCenter=true&width=550&lines=%F0%9F%8F%86+RANK+3+ELITE+PYTHON+DEVELOPER;%F0%9F%8F%86+RANK+3+ELITE+JAVASCRIPT+DEV;%F0%9F%8F%86+RANK+3+ELITE+JAVA+DEVELOPER;%F0%9F%9A%80+GIT+%26+DEV+OPS+GRANDMASTER" alt="Blazing Rank Status" />
   </a>
   <p align="center">
-  <img src="./badges/python.png" alt="Python Badge" height="40" />
-  <img src="./badges/JS.png" alt="JavaScript Badge" height="40" />
-  <img src="./badges/jAVA.png" alt="Java Badge" height="40" />
-  <img src="./badges/github.png" alt="Git Badge" height="40" />
-</p>
+    <img src="https://img.shields.io/badge/Python_Dev-Rank_3_%E2%80%A2_Elite-FF4500?style=for-the-badge&logo=python&logoColor=FFD700" alt="Python Badge" />
+    <img src="https://img.shields.io/badge/JS_Dev-Rank_3_%E2%80%A2_Elite-FF6347?style=for-the-badge&logo=javascript&logoColor=FFD700" alt="JavaScript Badge" />
+    <img src="https://img.shields.io/badge/Java_Dev-Rank_3_%E2%80%A2_Elite-FF8C00?style=for-the-badge&logo=openjdk&logoColor=FFD700" alt="Java Badge" />
+    <img src="https://img.shields.io/badge/Git_Specialist-Grandmaster_Level-D4AF37?style=for-the-badge&logo=git&logoColor=FF4500" alt="Git Badge" />
+  </p>
 </div>
 
 
@@ -66,14 +66,10 @@ From crafting dynamic frontends to architecting solid backends with Python, JS, 
 ### 🏆 Developer Skill Ranks
 
 <p align="center">
-  <!-- Python Elite Rank 3 -->
-  <img src="https://raw.githubusercontent.com/Techno-arya/Techno-arya/main/badges/python-badge.png" height="150" alt="Python Developer Rank 3 Elite" />
-  &nbsp;&nbsp;&nbsp;&nbsp; <!-- Spacing -->
-  <!-- JavaScript Platinum Rank 2 -->
-  <img src="https://raw.githubusercontent.com/Techno-arya/Techno-arya/main/badges/js-badge.png" height="150" alt="JS Developer Rank 2 Platinum" />
-  &nbsp;&nbsp;&nbsp;&nbsp; <!-- Spacing -->
-  <!-- Java Gold Rank 1 -->
-  <img src="https://raw.githubusercontent.com/Techno-arya/Techno-arya/main/badges/java-badge.png" height="150" alt="Java Developer Rank 1 Gold" />
+  <img src="./badges/python.png" alt="Python Badge" height="100" />
+  <img src="./badges/JS.png" alt="JavaScript Badge" height="100" />
+  <img src="./badges/JAVA.png" alt="Java Badge" height="100" />
+  <img src="./badges/github.png" alt="Git Badge" height="100" />
 </p>
 
 ---
