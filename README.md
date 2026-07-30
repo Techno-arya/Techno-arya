@@ -45,21 +45,21 @@ From crafting dynamic frontends to architecting solid backends with Python, JS, 
 
 <div align="center">
 
-<a href="https://github.com/Techno-arya">
-  <img height="185" src="https://github-readme-stats.vercel.app/api?username=Techno-arya&show_icons=true&theme=dark&hide_border=false" alt="Arya's GitHub Stats" />
-</a>
-<a href="https://github.com/Techno-arya">
-  <img height="185" src="https://streak-stats.demolab.com/?user=Techno-arya&theme=dark&hide_border=false" alt="Arya's Streak" />
-</a>
+| **Arya's GitHub Stats** | **Contribution Grind** |
+| :--- | :--- |
+| ⭐ **Total Stars:** `0` | ⚡ **Status:** Full-Stack Developer |
+| 🔄 **Commits:** Building Projects | 🔥 **Current Focus:** Python • JS • Java |
+| 🔀 **Pull Requests:** `0` | 🎯 **Goal:** Mastering Full-Stack |
+| 🐛 **Issues Resolved:** `0` | 📈 **Target:** End-to-End Apps |
 
 <br/>
 
-<a href="https://github.com/Techno-arya">
-  <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Techno-arya&layout=compact&theme=dark&hide_border=false" alt="Arya's Top Languages" />
-</a>
+| **Most Used Languages & Skills** |
+| :--- |
+| 🐍 **Python** `40%` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📜 **JavaScript** `30%` |
+| ☕ **Java** `20%` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🌐 **HTML / CSS** `10%` |
 
 </div>
-
 ---
 
 ### 🧪 Epic Projects & Quests
