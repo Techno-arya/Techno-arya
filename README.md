@@ -2,12 +2,9 @@
 
 # 👋 Arya! 🎮 ✨
 
-
 <p align="center">
   <img src="https://img.shields.io/badge/Profile_Views-100%2B-blue?style=for-the-badge&logo=github" alt="Visitor Count" />
 </p>
-
-
 
 *Vibing to epic beats 🎧 | Building Full-Stack Apps 💻 | Conquering Code 🚀*
 
@@ -15,10 +12,10 @@ An aspiring Full-Stack Developer slingin' Python, JavaScript, and Java to build 
 
 <br/>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="80" height="80"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="80" height="80"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="80" height="80"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="80" height="80"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="80" height="80" style="margin: 0 15px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="80" height="80" style="margin: 0 15px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="80" height="80" style="margin: 0 15px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="80" height="80" style="margin: 0 15px;" />
 </p>
 
 ---
@@ -33,7 +30,7 @@ From crafting dynamic frontends to architecting solid backends with Python, JS, 
 ### 🚀 Tech Stack & Languages
 
 <div align="center">
-  <a href="https://github.com/"Techno-arya">
+  <a href="https://github.com/Techno-arya">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1000&color=FF4500&center=true&vCenter=true&width=550&lines=%F0%9F%8F%86+RANK+3+ELITE+PYTHON+DEVELOPER;%F0%9F%8F%86+RANK+3+ELITE+JAVASCRIPT+DEV;%F0%9F%8F%86+RANK+3+ELITE+JAVA+DEVELOPER;%F0%9F%9A%80+GIT+%26+DEV+OPS+GRANDMASTER" alt="Blazing Rank Status" />
   </a>
   <p align="center">
@@ -43,8 +40,6 @@ From crafting dynamic frontends to architecting solid backends with Python, JS, 
     <img src="https://img.shields.io/badge/Git_Specialist-Grandmaster_Level-D4AF37?style=for-the-badge&logo=git&logoColor=FF4500" alt="Git Badge" />
   </p>
 </div>
-
-
 
 *Languages I am learning and building with:*
 
@@ -64,7 +59,6 @@ From crafting dynamic frontends to architecting solid backends with Python, JS, 
 
 ---
 
-
 ### 🏆 Developer Skill Ranks
 
 <p align="center">
@@ -75,6 +69,7 @@ From crafting dynamic frontends to architecting solid backends with Python, JS, 
 </p>
 
 ---
+
 ### 📊 GitHub Stats & Grind
 
 <div align="center">
@@ -100,6 +95,7 @@ From crafting dynamic frontends to architecting solid backends with Python, JS, 
 | ☕ **Java** `20%` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🌐 **HTML / CSS** `10%` |
 
 </div>
+
 ---
 
 ### ⚡ Technologies & Active Stack
@@ -120,8 +116,6 @@ From crafting dynamic frontends to architecting solid backends with Python, JS, 
 * 🌐 **Full-Stack Web App** 🚀 : Interactive frontend integrated with a powerful backend API.
 * 🤖 **Python Utility Scripts** 🐍 : Automating workflows and solving core programmatic tasks.
 * ☕ **Java OOP Applications** 🏗️ : Clean, object-oriented software projects and data structure implementations.
-
-
 
 ---
 
@@ -144,25 +138,29 @@ Ready to vibe on code or build something cool? Hit me up! ☕
   <a href="mailto:aryatherockyone@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
- 
+  <a href="https://discord.com/users/1256948674630782977" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://github.com/Techno-arya?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/Explore_Repos-100000?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+  </a>
+</p>
 
-<a href="https://discord.com/users/1256948674630782977" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-</a>
+</div>
 
+---
 
-<a href="https://github.com/Techno-arya?tab=repositories" target="_blank">
-  <img src="https://img.shields.io/badge/Explore_Repos-100000?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
-</a>
-
+<div align="right">
 
 ### 📜 Copyright & License
 
-<p align="left">
+<p align="right">
   <img src="https://img.shields.io/badge/Copyright-2026_Arya-blue?style=flat-square" alt="Copyright" />
   <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="License" />
 </p>
 
 © 2026 **Arya** (`Techno-arya`). All rights reserved.
+
+</div>
 
 
