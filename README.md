@@ -29,43 +29,26 @@ From crafting dynamic frontends to architecting solid backends with Python, JS, 
 ---
 
 <div align="center">
-
-  <!-- ========================================== -->
-  <!-- ANCIENT DARK WRAPPER WITH BLAZING BORDER -->
-  <!-- ========================================== -->
   <table border="0" cellspacing="0" cellpadding="0" style="background: #0d1117; border: 2px solid #d4af37; border-radius: 12px; box-shadow: 0 0 25px rgba(212, 175, 55, 0.4); padding: 20px;">
     <tr>
       <td align="center">
-
-        
-        <a href="https://github.com/Techno-arya">
+        <a href="https://github.com/YOUR_GITHUB_USERNAME">
           <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1000&color=FF4500&center=true&vCenter=true&width=550&lines=%F0%9F%94%A5+AWAKENING+ANCIENT+POWER...;%E2%9C%A8+GLORIOUS+LIGHT+UNLOCKED;%F0%9F%8F%86+RANK+3+ELITE+PYTHON+DEVELOPER;%E2%9A%94%EF%B8%8F+RANK+2+PLATINUM+JAVASCRIPT+DEV;%F0%9F%9B%A1%EF%B8%8F+RANK+1+GOLD+JAVA+DEVELOPER;%F0%9F%9A%80+GIT+%26+DEV+OPS+EXPERT" alt="Blazing Rank Status" />
         </a>
-
-        <!-- 2. Glowing Golden Hanging Rail -->
         <hr style="border: none; height: 3px; background: linear-gradient(90deg, transparent, #FF4500, #FFD700, #FF4500, transparent); margin: 15px 0 10px 0;" />
-
-        <!-- 3. Blazing Badge Display Frame -->
         <div style="border-top: 3px solid #FFD700; border-bottom: 2px solid #FF4500; padding: 15px 0; background: radial-gradient(circle, rgba(255,69,0,0.15) 0%, rgba(13,17,23,0) 70%);">
-          
-          <!-- Supports both Dark/Light native GitHub modes or dynamic GIF/PNG -->
           <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/main/badges/all-badges.gif">
-            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/main/badges/all-badges.png">
-            <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/main/badges/all-badges.gif" width="95%" alt="Blazing Developer Skill Ranks" style="border-radius: 8px; box-shadow: 0 0 20px rgba(255, 69, 0, 0.6);" />
+            <source media="(prefers-color-scheme: dark)" srcset="./badges/all-badges.gif">
+            <source media="(prefers-color-scheme: light)" srcset="./badges/all-badges.png">
+            <img src="./badges/all-badges.gif" width="95%" alt="Blazing Developer Skill Ranks" style="border-radius: 8px; box-shadow: 0 0 20px rgba(255, 69, 0, 0.6);" />
           </picture>
-
         </div>
-
-        <!-- 4. Ancient Rune Footer Accent -->
         <p style="color: #d4af37; font-family: monospace; font-size: 11px; margin-top: 8px; letter-spacing: 2px;">
           ⚡ [ ANCIENT EMBERS IGNITED — GLORIOUS LIGHT REVEALED ] ⚡
         </p>
-
       </td>
     </tr>
   </table>
-
 </div>
 
 
