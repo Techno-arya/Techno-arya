@@ -66,10 +66,10 @@ From crafting dynamic frontends to architecting solid backends with Python, JS, 
 ### 🏆 Developer Skill Ranks
 
 <p align="center">
-  <img src="./badges/python.png" alt="Python Badge" height="300" />
-  <img src="./badges/JS.png" alt="JavaScript Badge" height="300" />
-  <img src="./badges/JAVA.png" alt="Java Badge" height="300" />
-  <img src="./badges/github.png" alt="Git Badge" height="300" />
+  <img src="./badges/python.png" alt="Python Badge" height="320" />
+  <img src="./badges/JS.png" alt="JavaScript Badge" height="320" />
+  <img src="./badges/JAVA.png" alt="Java Badge" height="320" />
+  <img src="./badges/github.png" alt="Git Badge" height="320" />
 </p>
 
 ---
