@@ -30,21 +30,12 @@ From crafting dynamic frontends to architecting solid backends with Python, JS, 
 
 ### 🚀 Tech Stack & Languages
 
-
-<div align="center">
-
-  <!-- Live Typing Rank Status Line -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=D4AF37&center=true&vCenter=true&width=500&lines=%F0%9F%8F%86+RANK+3+ELITE+PYTHON+DEVELOPER;%E2%9A%94%EF%B8%8F+RANK+2+PLATINUM+JAVASCRIPT+DEV;%F0%9F%9B%A1%EF%B8%8F+RANK+1+GOLD+JAVA+DEVELOPER;%F0%9F%9A%80+GIT+%26+DEV+OPS+EXPERT+UNLOCKED" alt="Live Rank Status" />
-
-  <!-- Top Hanging Mounting Rail -->
-  <hr style="border: 2px solid #30363d; width: 85%; margin-bottom: 0px;" />
-
-  <!-- Hanging Rank Badge Frame -->
-  <p align="center">
-    <img src="./badges/all-badges.png" width="100%" alt="Developer Skill Ranks" />
-  </p>
-
-</div>
+<p align="center">
+  <img src="./badges/python.png" alt="Python Badge" />
+  <img src="./badges/javascript.png" alt="JavaScript Badge" />
+  <img src="./badges/java.png" alt="Java Badge" />
+  <img src="./badges/git.png" alt="Git Badge" />
+</p>
 
 
 
