@@ -24,48 +24,13 @@ An aspiring Full-Stack Developer slingin' Python, JavaScript, and Java to build 
 ---
 <div align="center">
   <h3>🌌 🎧 ⛩️ LOFI BEATS & FULL-STACK FLOW</h3>
-  
   <p align="center">
-    <!-- Card 1: Currently Playing / Top Track -->
-    <svg width="340" height="150" viewBox="0 0 340 150" fill="none" xmlns="http://www.w3.org/2000/svg">
-      <rect width="340" height="150" rx="16" fill="#12131C" fill-opacity="0.85" stroke="#FFFFFF" stroke-opacity="0.25" stroke-width="1.5"/>
-      <rect width="340" height="150" rx="16" stroke="#00F0FF" stroke-opacity="0.4" stroke-width="2"/>
-      <rect x="16" y="18" width="60" height="60" rx="10" fill="#1DB954" fill-opacity="0.2" stroke="#1DB954" stroke-opacity="0.5"/>
-      <path d="M46 41C40.4772 41 36 45.4772 36 51C36 56.5228 40.4772 61 46 61C51.5228 61 56 56.5228 56 51C56 45.4772 51.5228 41 46 41ZM48 47V52.5C47.4 52.2 46.7 52 46 52C44.3 52 43 53.3 43 55C43 56.7 44.3 58 46 58C47.7 58 49 56.7 49 55V49H52V47H48Z" fill="#1DB954"/>
-      <text x="88" y="38" fill="#FFFFFF" font-family="'Segoe UI', Roboto, sans-serif" font-weight="700" font-size="14">Hennessy</text>
-      <text x="88" y="56" fill="#A0A0B0" font-family="'Segoe UI', Roboto, sans-serif" font-size="12">3umph, dope17</text>
-      <text x="88" y="72" fill="#00F0FF" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="600">NOW SPINNING • SPOTIFY</text>
-      <rect x="16" y="94" width="308" height="4" rx="2" fill="#2A2B3A"/>
-      <rect x="16" y="94" width="120" height="4" rx="2" fill="#00F0FF"/>
-      <circle cx="136" cy="96" r="4" fill="#FFFFFF"/>
-      <text x="16" y="112" fill="#808090" font-family="'Segoe UI', Roboto, sans-serif" font-size="10">00:34</text>
-      <text x="300" y="112" fill="#808090" font-family="'Segoe UI', Roboto, sans-serif" font-size="10">2:19</text>
-      <path d="M140 130L130 124V136L140 130ZM130 130L120 124V136L130 130Z" fill="#FFFFFF" fill-opacity="0.8"/>
-      <rect x="165" y="123" width="4" height="14" rx="1" fill="#FFFFFF"/>
-      <rect x="173" y="123" width="4" height="14" rx="1" fill="#FFFFFF"/>
-      <path d="M200 130L210 124V136L200 130ZM210 130L220 124V136L210 130Z" fill="#FFFFFF" fill-opacity="0.8"/>
-    </svg>
-
-  &nbsp;
-
-  <svg width="340" height="150" viewBox="0 0 340 150" fill="none" xmlns="http://www.w3.org/2000/svg">
-      <rect width="340" height="150" rx="16" fill="#12131C" fill-opacity="0.85" stroke="#FFFFFF" stroke-opacity="0.25" stroke-width="1.5"/>
-      <rect width="340" height="150" rx="16" stroke="#FF0055" stroke-opacity="0.4" stroke-width="2"/>
-      <rect x="16" y="18" width="60" height="60" rx="10" fill="#FF0055" fill-opacity="0.2" stroke="#FF0055" stroke-opacity="0.5"/>
-      <text x="46" y="53" fill="#FF0055" font-family="'Segoe UI', Roboto, sans-serif" font-weight="900" font-size="20" text-anchor="middle">⛩️</text>
-      <text x="88" y="38" fill="#FFFFFF" font-family="'Segoe UI', Roboto, sans-serif" font-weight="700" font-size="14">Tokyo Rain & Cyber Lofi</text>
-      <text x="88" y="56" fill="#A0A0B0" font-family="'Segoe UI', Roboto, sans-serif" font-size="12">Techno-Arya Sessions</text>
-      <text x="88" y="72" fill="#FF0055" font-family="'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="600">DEV FLOW STATE</text>
-      <rect x="16" y="94" width="308" height="4" rx="2" fill="#2A2B3A"/>
-      <rect x="16" y="94" width="210" height="4" rx="2" fill="#FF0055"/>
-      <circle cx="226" cy="96" r="4" fill="#FFFFFF"/>
-      <text x="16" y="112" fill="#808090" font-family="'Segoe UI', Roboto, sans-serif" font-size="10">01:45</text>
-      <text x="300" y="112" fill="#808090" font-family="'Segoe UI', Roboto, sans-serif" font-size="10">2:30</text>
-      <path d="M140 130L130 124V136L140 130ZM130 130L120 124V136L130 130Z" fill="#FFFFFF" fill-opacity="0.8"/>
-      <path d="M167 123L179 130L167 137V123Z" fill="#FFFFFF"/>
-      <path d="M200 130L210 124V136L200 130ZM210 130L220 124V136L210 130Z" fill="#FFFFFF" fill-opacity="0.8"/>
-    </svg>
-  </p>
+  <a href="https://open.spotify.com" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
+  </a>
+  <img src="https://img.shields.io/badge/Now_Spinning-Hennessy_%E2%80%A2_3umph-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Now Spinning" />
+    <img src="https://img.shields.io/badge/Stack_Flow-Python_%E2%80%A2_JS_%E2%80%A2_Java-00F0FF?style=for-the-badge&logo=codeforces&logoColor=black" alt="Full Stack Flow" />
+</p>
 
   <p align="center">
     <sub>⚡ [ SOUNDTRACK OF THE CODE GRIND — ULTIMATE FLOW ] ⚡</sub>
