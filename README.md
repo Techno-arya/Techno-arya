@@ -93,11 +93,7 @@ An aspiring Full-Stack Developer slingin' Python, JavaScript, and Java to build 
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Techno-arya/Techno-arya/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Techno-arya/Techno-arya/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Techno-arya/Techno-arya/output/github-contribution-grid-snake.svg">
-</picture>
+⚔️ 🔮 Tech Arcana & Elemental Attributes
 
 | **Primary Magic Attributes** |
 | :--- |
