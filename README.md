@@ -28,7 +28,7 @@ An aspiring Full-Stack Developer slingin' Python, JavaScript, and Java to build 
 
 <p align="center">
   <a href="https://open.spotify.com" target="_blank">
-    <img src="https://spotify-github-profile.shin3016.workers.dev/api/spotify" alt="Spotify Now Playing" />
+    <img src="https://spotify-github-profile.aura.sh/api/view?uid=315iliibz6aih6nmhjpxhbzn5j5q?si=a6158e384bf14117&cover_image=true&theme=novatoken&show_offline=true" alt="Spotify Now Playing" />
   </a>
   <br/>
   <img src="https://img.shields.io/badge/Stack_Flow-Python_%E2%80%A2_JS_%E2%80%A2_Java-00F0FF?style=for-the-badge&logo=codeforces&logoColor=black" alt="Stack Flow" />
