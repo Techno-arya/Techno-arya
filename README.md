@@ -93,7 +93,7 @@ An aspiring Full-Stack Developer slingin' Python, JavaScript, and Java to build 
 
 <br/>
 
-<h2 align="center">✧･ﾟ: * 魔法属性 * :･ﾟ✧<br/>⚔️ 🔮 Tech Arcana & Elemental Attributes</h2>
+<h2 align="center">─── ༺⚡ 🔮 𝐓𝐞𝐜𝐡 𝐀𝐫𝐜𝐚𝐧𝐚 & 𝐄𝐥𝐞𝐦𝐞𝐧𝐭𝐚𝐥 𝐀𝐭𝐭𝐫𝐢𝐛𝐮𝐭𝐞𝐬 🔮 ⚡༻ ───</h2>
 
 | **Primary Magic Attributes** |
 | :--- |
