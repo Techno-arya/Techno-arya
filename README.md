@@ -4,8 +4,8 @@
   <img src="https://img.shields.io/badge/Profile_Views-100%2B-blue?style=for-the-badge&logo=github" alt="Visitor Count" />
 </p>
 
-
 # 👋 Arya! 🎮 ✨
+
 
 
 *Vibing to epic beats 🎧 | Building Full-Stack Apps 💻 | Conquering Code 🚀*
@@ -22,10 +22,23 @@ An aspiring Full-Stack Developer slingin' Python, JavaScript, and Java to build 
 
 ---
 
-### 🎧 My Vibe Statement
+### 🎧 My Vibe Statement & Spotify Beats
 
-✨ 🎧 💻 📈 = **Ultimate Flow State**
+✨ 🎧 💻 📈 = **Ultimate Flow State**  
 From crafting dynamic frontends to architecting solid backends with Python, JS, and Java, I'm always chasing the next level. Add a lo-fi playlist, and I'm unstoppable. Let me grind, build, and vibe! 🌌
+
+<br/>
+
+<!-- Spotify Music Card -->
+<p align="center">
+  <a href="https://open.spotify.com">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_USER_ID&count=1&sp_dc=OPTIONAL" alt="Spotify Recently Played" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=black" alt="Spotify Badge" />
+</p>
 
 ---
 
@@ -64,10 +77,10 @@ From crafting dynamic frontends to architecting solid backends with Python, JS, 
 ### 🏆 Developer Skill Ranks
 
 <p align="center">
-  <img src="./badges/python.png" alt="Python Badge" height="300" />
-  <img src="./badges/JS.png" alt="JavaScript Badge" height="300" />
-  <img src="./badges/JAVA.png" alt="Java Badge" height="300" />
-  <img src="./badges/github.png" alt="Git Badge" height="300" />
+  <img src="./badges/python.png" alt="Python Badge" height="310" />
+  <img src="./badges/JS.png" alt="JavaScript Badge" height="310" />
+  <img src="./badges/JAVA.png" alt="Java Badge" height="310" />
+  <img src="./badges/github.png" alt="Git Badge" height="310" />
 </p>
 
 ---
@@ -134,7 +147,7 @@ From crafting dynamic frontends to architecting solid backends with Python, JS, 
 Ready to vibe on code or build something cool? Hit me up! ☕
 
 <p align="center">
-  <a href="https://instagram.com/YOUR_INSTAGRAM" target="_blank">
+  <a href="https://instagram.com/"arya_yo_123456" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:aryatherockyone@gmail.com">
@@ -150,14 +163,12 @@ Ready to vibe on code or build something cool? Hit me up! ☕
 
 </div>
 
-</div>
-
 ---
 
+<!-- Anime Tech Cyber Signature -->
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&weight=400&size=35&pause=2000&color=FFFFFF&center=false&vCenter=true&width=250&height=50&lines=Arya;Techno-Arya" alt="Arya Signature" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=15&pause=2000&color=00F0FF&center=false&vCenter=true&width=350&height=50&lines=%E2%9A%A1+SYSTEM.SIGNED%3A+Arya;%F0%9F%90%BE+DEV%3A+Techno-Arya" alt="Anime Tech Signature" />
 </p>
-
 
 <div align="right">
 
@@ -171,5 +182,4 @@ Ready to vibe on code or build something cool? Hit me up! ☕
 © 2026 **Arya** (`Techno-arya`). All rights reserved.
 
 </div>
-
 
