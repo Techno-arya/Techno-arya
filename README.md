@@ -23,22 +23,18 @@ An aspiring Full-Stack Developer slingin' Python, JavaScript, and Java to build 
 
 ---
 
-### 🎵 🎧 Anime Vibe & Spotify Music Card
+### 🌌 🎧 ⛩️ Lofi Beats & Full-Stack Flow 
 
 <p align="center">
   <b>✨ Current Flow State: Activated ✨</b><br/>
   <i>Chasing full-stack dominance with lo-fi anime soundtracks on loop. 🌌</i>
 </p>
 
-<!-- Live Spotify Now Playing Card -->
+<!-- Linked Spotify Profile Badge - Highly Reliable and thematic -->
 <p align="center">
-  <a href="https://open.spotify.com">
-    <img src="https://spotify-github-profile.aura.sh/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatoken&show_offline=true&background_color=0f0f1b&interchange=true" alt="Spotify Live Music Card" />
+  <a href="https://open.spotify.com" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-Anime%20LoFi%20Mode-1ED760?style=for-the-badge&logo=spotify&logoColor=black" alt="Arya's Spotify Profile" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Spotify-Anime_LoFi_Mode-1ED760?style=for-the-badge&logo=spotify&logoColor=black" alt="Spotify Badge" />
 </p>
 
 ---
