@@ -21,7 +21,6 @@ An aspiring Full-Stack Developer slingin' Python, JavaScript, and Java to build 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="75" height="75" style="margin: 0 15px;" />
 </p>
 
----
 <div align="center">
 <div align="center">
 
@@ -36,7 +35,7 @@ An aspiring Full-Stack Developer slingin' Python, JavaScript, and Java to build 
 </p>
 
 </div>
----
+
 
 ### 🚀 Tech Power Levels & Arsenal
 
@@ -69,7 +68,6 @@ An aspiring Full-Stack Developer slingin' Python, JavaScript, and Java to build 
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 </p>
 
----
 
 ### 🏆 Guild Skill Badges
 
@@ -80,7 +78,7 @@ An aspiring Full-Stack Developer slingin' Python, JavaScript, and Java to build 
   <img src="./badges/github.png" alt="Git Badge" height="310" />
 </p>
 
----
+
 
 ### 📊 Hunter Guild Stats & Grind
 
@@ -108,7 +106,7 @@ An aspiring Full-Stack Developer slingin' Python, JavaScript, and Java to build 
 
 </div>
 
----
+
 
 ### ⚡ Active Arc Stack
 
@@ -129,7 +127,7 @@ An aspiring Full-Stack Developer slingin' Python, JavaScript, and Java to build 
 * 🤖 **Python Utility Scripts** 🐍 : Automating routine tasks with clean code execution.
 * ☕ **Java OOP Projects** 🏗️ : Deep diving into scalable system designs and data structures.
 
----
+
 
 ### 🎯 Endgame Goal & Saga
 
@@ -137,7 +135,7 @@ An aspiring Full-Stack Developer slingin' Python, JavaScript, and Java to build 
 💬 **Ultimate Quest:** Deploying seamless, world-class web applications.  
 ⚔️ **Current Focus:** REST APIs, database design, and frontend interactivity.
 
----
+
 
 ### 🤝 Join the Party!
 
@@ -160,7 +158,7 @@ Ready to form a guild or collaborate on a project? Hit me up! ☕
 
 </div>
 
----
+
 
 <!-- Anime Tech Signature -->
 <p align="left">
