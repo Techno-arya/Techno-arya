@@ -168,7 +168,7 @@ Ready to form a guild or collaborate on a project? Hit me up! ☕
 
 <!-- Anime Tech Signature -->
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=14&pause=2000&color=00F0FF&center=false&vCenter=true&width=360&height=50&lines=%E2%9A%A1+SYSTEM.SIGNED%3A+Arya;%F0%9F%90%BE+DEV%3A+Techno-Arya" alt="Anime Tech Signature" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=14&pause=2000&color=00F0FF&center=false&vCenter=true&width=380&height=50&lines=%E2%9A%A1+SYSTEM.SIGNED%3A+Arya;%F0%9F%90%BE+DEV%3A+Techno-Arya;%E2%9A%A1+SYST%C3%88ME.SIGN%C3%89%3A+Arya;%F0%9F%90%BE+D%C3%89V%3A+Techno-Arya" alt="Anime Tech Signature" />
 </p>
 
 <div align="right">
