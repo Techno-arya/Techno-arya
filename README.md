@@ -36,7 +36,7 @@ An aspiring Full-Stack Developer slingin' Python, JavaScript, and Java to build 
 </p>
 
 </div>
-
+---
 
 <h2 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=FF0055&center=true&vCenter=true&width=600&lines=%E2%9C%A7%EF%BD%A5%EF%BE%9F%3A+*+%E6%80%A7%E8%83%BD%E3%81%A8%E6%AD%A6%E5%99%A8%E5%BA%AB+*+%3A%EF%BD%A5%EF%BE%9F%E2%9C%A7;%F0%9F%9A%80+Tech+Power+Levels+%26+Arsenal;%F0%9F%9A%80+Niveaux+de+Puissance+%26+Arsenal+Tech" alt="Tech Power Levels Heading" />
@@ -54,7 +54,7 @@ An aspiring Full-Stack Developer slingin' Python, JavaScript, and Java to build 
     <img src="https://img.shields.io/badge/Git_Specialist-Grandmaster-AD00FF?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge" />
   </p>
 </div>
-
+---
 *Skill Attributes:*
 
 | Spell / Element | Master Level | Rank |
@@ -83,7 +83,7 @@ An aspiring Full-Stack Developer slingin' Python, JavaScript, and Java to build 
   <img src="./badges/github.png" alt="Git Badge" height="310" />
 </p>
 
-
+---
 
 <h2 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=%E2%9C%A7%EF%BD%A5%EF%BE%9F%3A+*+%E6%98%87%E7%B4%9A%E4%BE%9D%E9%A0%BC+*+%3A%EF%BD%A5%EF%BE%9F%E2%9C%A7;%F0%9F%93%8A+%E2%9A%94%EF%B8%8F+Hunter+Guild+Stats+%26+Grind;%F0%9F%93%8A+%E2%9A%94%EF%B8%8F+Statistiques+de+la+Guilde+%26+Progression" alt="Hunter Guild Stats Heading" />
@@ -99,6 +99,7 @@ An aspiring Full-Stack Developer slingin' Python, JavaScript, and Java to build 
 | 🐛 **Bugs Defeated:** `0` | 📈 **Target:** Legendary App Builder |
 
 <br/>
+---
 
 <h2 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=%E2%9C%A7%EF%BD%A5%EF%BE%9F%3A+*+%E9%AD%94%E6%B3%95%E5%B1%9E%E6%80%A7+*+%3A%EF%BD%A5%EF%BE%9F%E2%9C%A7;%E2%9A%94%EF%B8%8F+%F0%9F%94%AE+Tech+Arcana+%26+Elemental+Attributes;%E2%9A%94%EF%B8%8F+%F0%9F%94%AE+Arcanes+Tech+%26+Attributs+%CC%89l%C3%A9mentaires" alt="Tech Arcana Heading" />
@@ -111,7 +112,7 @@ An aspiring Full-Stack Developer slingin' Python, JavaScript, and Java to build 
 
 </div>
 
-
+---
 
 ### ⚡ Active Arc Stack
 
@@ -140,7 +141,7 @@ An aspiring Full-Stack Developer slingin' Python, JavaScript, and Java to build 
 💬 **Ultimate Quest:** Deploying seamless, world-class web applications.  
 ⚔️ **Current Focus:** REST APIs, database design, and frontend interactivity.
 
-
+---
 
 ### 🤝 Join the Party!
 
