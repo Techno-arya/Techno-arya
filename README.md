@@ -81,8 +81,8 @@ An aspiring Full-Stack Developer slingin' Python, JavaScript, and Java to build 
   </a>
   <br/><br/>
   <p align="center">
-    <img src="https://img.shields.io/badge/Python_Class-Rank_3_%E2%80%A2_Elite-FF0055?style=for-the-badge&logo=python&logoColor=FFD700" alt="Python Badge" />
-    <img src="https://img.shields.io/badge/JS_Class-Rank_3_%E2%80%A2_Elite-00F0FF?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge" />
+    <img src="https://img.shields.io/badge/Python_Class-Rank_3_%E2%80%A2_Diamond-FF0055?style=for-the-badge&logo=python&logoColor=FFD700" alt="Python Badge" />
+    <img src="https://img.shields.io/badge/JS_Class-Rank_3_%E2%80%A2_Platinum-00F0FF?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge" />
     <img src="https://img.shields.io/badge/Java_Class-Rank_3_%E2%80%A2_Elite-FF9900?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Badge" />
     <img src="https://img.shields.io/badge/Git_Specialist-Grandmaster-AD00FF?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge" />
   </p>
