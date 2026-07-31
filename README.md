@@ -23,8 +23,9 @@ An aspiring Full-Stack Developer slingin' Python, JavaScript, and Java to build 
 
 <div align="center">
 <div align="center">
-
-### 🌌 🎧 ⛩️ LOFI BEATS & FULL-STACK FLOW
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=%E2%9C%A7%EF%BD%A5%EF%BE%9F%3A+*+%E3%83%AD%E3%83%BC%E3%83%95%E3%82%A1%E3%82%A4%E3%81%A8%E9%96%8B%E7%99%BA%E3%83%95%E3%83%AD%E3%83%BC+*+%3A%EF%BD%A5%EF%BE%9F%E2%9C%A7;%F0%9F%8C%8C+%F0%9F%8E%A7+%E2%9B%A9%EF%B8%8F+Lofi+Beats+%26+Full-Stack+Flow;%F0%9F%8C%8C+%F0%9F%8E%A7+%E2%9B%A9%EF%B8%8F+Rythmes+Lofi+%26+Flux+Full-Stack" alt="Lofi Beats and Full-Stack Flow Heading" />
+</h2>
 
 <p align="center">
   <a href="https://open.spotify.com" target="_blank">
@@ -37,7 +38,9 @@ An aspiring Full-Stack Developer slingin' Python, JavaScript, and Java to build 
 </div>
 
 
-### 🚀 Tech Power Levels & Arsenal
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=FF0055&center=true&vCenter=true&width=600&lines=%E2%9C%A7%EF%BD%A5%EF%BE%9F%3A+*+%E6%80%A7%E8%83%BD%E3%81%A8%E6%AD%A6%E5%99%A8%E5%BA%AB+*+%3A%EF%BD%A5%EF%BE%9F%E2%9C%A7;%F0%9F%9A%80+Tech+Power+Levels+%26+Arsenal;%F0%9F%9A%80+Niveaux+de+Puissance+%26+Arsenal+Tech" alt="Tech Power Levels Heading" />
+</h2>
 
 <div align="center">
   <a href="https://github.com/Techno-arya">
@@ -69,7 +72,9 @@ An aspiring Full-Stack Developer slingin' Python, JavaScript, and Java to build 
 </p>
 
 
-### 🏆 Guild Skill Badges
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=FF4500&center=true&vCenter=true&width=600&lines=%E2%9C%A7%EF%BD%A5%EF%BE%9F%3A+*+%E3%82%AE%E3%83%AB%E3%83%89%E3%82%B9%E3%82%AD%E3%83%AB+*+%3A%EF%BD%A5%EF%BE%9F%E2%9C%A7;%F0%9F%8F%86+Guild+Skill+Badges;%F0%9F%8F%86+Badges+de+Comp%C3%A9tence+de+Guilde" alt="Guild Skill Badges Heading" />
+</h2>
 
 <p align="center">
   <img src="./badges/python.png" alt="Python Badge" height="310" />
@@ -95,7 +100,9 @@ An aspiring Full-Stack Developer slingin' Python, JavaScript, and Java to build 
 
 <br/>
 
-<h2 align="center">─── ༺⚡ 🔮 𝐓𝐞𝐜𝐡 𝐀𝐫𝐜𝐚𝐧𝐚 & 𝐄𝐥𝐞𝐦𝐞𝐧𝐭𝐚𝐥 𝐀𝐭𝐭𝐫𝐢𝐛𝐮𝐭𝐞𝐬 🔮 ⚡༻ ───</h2>
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=%E2%9C%A7%EF%BD%A5%EF%BE%9F%3A+*+%E9%AD%94%E6%B3%95%E5%B1%9E%E6%80%A7+*+%3A%EF%BD%A5%EF%BE%9F%E2%9C%A7;%E2%9A%94%EF%B8%8F+%F0%9F%94%AE+Tech+Arcana+%26+Elemental+Attributes;%E2%9A%94%EF%B8%8F+%F0%9F%94%AE+Arcanes+Tech+%26+Attributs+%CC%89l%C3%A9mentaires" alt="Tech Arcana Heading" />
+</h2>
 
 | **Primary Magic Attributes** |
 | :--- |
