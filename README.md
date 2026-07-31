@@ -1,68 +1,70 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Profile_Views-100%2B-blue?style=for-the-badge&logo=github" alt="Visitor Count" />
+  <img src="https://img.shields.io/badge/Level-99_Developer-FF0055?style=for-the-badge&logo=gamepad&logoColor=white" alt="Level Badge" />
+  <img src="https://img.shields.io/badge/Profile_Views-100%2B-00F0FF?style=for-the-badge&logo=github&logoColor=white" alt="Visitor Count" />
 </p>
 
-# 👋 Arya! 🎮 ✨
 
+# ⚡ ⚔️ Arya! 🎮 ✨ 
 
+*🌀 Vibing to Lo-Fi Anime Beats 🎧 | Crafting Full-Stack Worlds 💻 | Leveling Up Code 🚀*
 
-*Vibing to epic beats 🎧 | Building Full-Stack Apps 💻 | Conquering Code 🚀*
-
-An aspiring Full-Stack Developer slingin' Python, JavaScript, and Java to build awesome web apps! 🚀
+***"People die if they are killed... but code lives forever if it's pushed."***  
+An aspiring Full-Stack Developer slingin' Python, JavaScript, and Java to build epic software! ⚔️
 
 <br/>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="80" height="80" style="margin: 0 15px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="80" height="80" style="margin: 0 15px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="80" height="80" style="margin: 0 15px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="80" height="80" style="margin: 0 15px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="75" height="75" style="margin: 0 15px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="75" height="75" style="margin: 0 15px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="75" height="75" style="margin: 0 15px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="75" height="75" style="margin: 0 15px;" />
 </p>
 
 ---
 
-### 🎧 My Vibe Statement & Spotify Beats
+### 🎵 🎧 Anime Vibe & Spotify Music Card
 
-✨ 🎧 💻 📈 = **Ultimate Flow State**  
-From crafting dynamic frontends to architecting solid backends with Python, JS, and Java, I'm always chasing the next level. Add a lo-fi playlist, and I'm unstoppable. Let me grind, build, and vibe! 🌌
+<p align="center">
+  <b>✨ Current Flow State: Activated ✨</b><br/>
+  <i>Chasing full-stack dominance with lo-fi anime soundtracks on loop. 🌌</i>
+</p>
 
-<br/>
-
-<!-- Spotify Music Card -->
+<!-- Live Spotify Now Playing Card -->
 <p align="center">
   <a href="https://open.spotify.com">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_USER_ID&count=1&sp_dc=OPTIONAL" alt="Spotify Recently Played" />
+    <img src="https://spotify-github-profile.aura.sh/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatoken&show_offline=true&background_color=0f0f1b&interchange=true" alt="Spotify Live Music Card" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=black" alt="Spotify Badge" />
+  <img src="https://img.shields.io/badge/Spotify-Anime_LoFi_Mode-1ED760?style=for-the-badge&logo=spotify&logoColor=black" alt="Spotify Badge" />
 </p>
 
 ---
 
-### 🚀 Tech Stack & Languages
+### 🚀 Tech Power Levels & Arsenal
 
 <div align="center">
   <a href="https://github.com/Techno-arya">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1000&color=FF4500&center=true&vCenter=true&width=550&lines=%F0%9F%8F%86+RANK+3+ELITE+PYTHON+DEVELOPER;%F0%9F%8F%86+RANK+3+ELITE+JAVASCRIPT+DEV;%F0%9F%8F%86+RANK+3+ELITE+JAVA+DEVELOPER;%F0%9F%9A%80+GIT+%26+DEV+OPS+GRANDMASTER" alt="Blazing Rank Status" />
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=14&pause=1000&color=FF0055&center=true&vCenter=true&width=600&lines=%E2%9A%A1+RANK+3+%3A+ELITE+PYTHON+MAGE;%E2%9A%A1+RANK+3+%3A+JAVASCRIPT+NINJA;%E2%9A%A1+RANK+3+%3A+JAVA+PALADIN;%F0%9F%92%A0+GIT+%26+DEV+OPS+GRANDMASTER" alt="Anime Rank Status" />
   </a>
+  <br/><br/>
   <p align="center">
-    <img src="https://img.shields.io/badge/Python_Dev-Rank_3_%E2%80%A2_Elite-FF4500?style=for-the-badge&logo=python&logoColor=FFD700" alt="Python Badge" />
-    <img src="https://img.shields.io/badge/JS_Dev-Rank_3_%E2%80%A2_Elite-FF6347?style=for-the-badge&logo=javascript&logoColor=FFD700" alt="JavaScript Badge" />
-    <img src="https://img.shields.io/badge/Java_Dev-Rank_3_%E2%80%A2_Elite-FF8C00?style=for-the-badge&logo=openjdk&logoColor=FFD700" alt="Java Badge" />
-    <img src="https://img.shields.io/badge/Git_Specialist-Grandmaster_Level-D4AF37?style=for-the-badge&logo=git&logoColor=FF4500" alt="Git Badge" />
+    <img src="https://img.shields.io/badge/Python_Class-Rank_3_%E2%80%A2_Elite-FF0055?style=for-the-badge&logo=python&logoColor=FFD700" alt="Python Badge" />
+    <img src="https://img.shields.io/badge/JS_Class-Rank_3_%E2%80%A2_Elite-00F0FF?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge" />
+    <img src="https://img.shields.io/badge/Java_Class-Rank_3_%E2%80%A2_Elite-FF9900?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Badge" />
+    <img src="https://img.shields.io/badge/Git_Specialist-Grandmaster-AD00FF?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge" />
   </p>
 </div>
 
-*Languages I am learning and building with:*
+*Skill Attributes:*
 
-| Language | Skill Level | Rating |
+| Spell / Element | Master Level | Rank |
 | :--- | :--- | :--- |
-| 🐍 **Python** | Backend & Scripts | ⭐⭐⭐⭐☆ |
-| 📜 **JavaScript** | Frontend & Web Dev | ⭐⭐⭐☆☆ |
-| ☕ **Java** | Core Java & OOP | ⭐⭐⭐☆☆ |
+| 🐍 **Python** | Backend & Automation | S-Rank ⭐⭐⭐⭐☆ |
+| 📜 **JavaScript** | Frontend & Web Jutsu | A-Rank ⭐⭐⭐☆☆ |
+| ☕ **Java** | Object-Oriented Architecture | A-Rank ⭐⭐⭐☆☆ |
 
 <br/>
 
@@ -74,7 +76,7 @@ From crafting dynamic frontends to architecting solid backends with Python, JS, 
 
 ---
 
-### 🏆 Developer Skill Ranks
+### 🏆 Guild Skill Badges
 
 <p align="center">
   <img src="./badges/python.png" alt="Python Badge" height="310" />
@@ -85,16 +87,16 @@ From crafting dynamic frontends to architecting solid backends with Python, JS, 
 
 ---
 
-### 📊 GitHub Stats & Grind
+### 📊 Hunter Guild Stats & Grind
 
 <div align="center">
 
-| **Arya's GitHub Stats** | **Contribution Grind** |
+| **Arya's Guild Stats** | **Quest Progress** |
 | :--- | :--- |
-| ⭐ **Total Stars:** `0` | ⚡ **Status:** Full-Stack Developer |
-| 🔄 **Commits:** Building Projects | 🔥 **Current Focus:** Python • JS • Java |
-| 🔀 **Pull Requests:** `0` | 🎯 **Goal:** Mastering Full-Stack |
-| 🐛 **Issues Resolved:** `0` | 📈 **Target:** End-to-End Apps |
+| ⭐ **Total Stars:** `0` | ⚡ **Class:** Full-Stack Web Dev |
+| 🔄 **Commits:** Continuous Training | 🔥 **Current Training:** Python • JS • Java |
+| 🔀 **Pull Requests:** `0` | 🎯 **Ultimate Goal:** Full-Stack Mastery |
+| 🐛 **Bugs Defeated:** `0` | 📈 **Target:** Legendary App Builder |
 
 <br/>
 
@@ -104,7 +106,7 @@ From crafting dynamic frontends to architecting solid backends with Python, JS, 
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Techno-arya/Techno-arya/output/github-contribution-grid-snake.svg">
 </picture>
 
-| **Most Used Languages & Skills** |
+| **Primary Magic Attributes** |
 | :--- |
 | 🐍 **Python** `40%` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📜 **JavaScript** `30%` |
 | ☕ **Java** `20%` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🌐 **HTML / CSS** `10%` |
@@ -113,41 +115,41 @@ From crafting dynamic frontends to architecting solid backends with Python, JS, 
 
 ---
 
-### ⚡ Technologies & Active Stack
+### ⚡ Active Arc Stack
 
 <div align="center">
 
-| Language / Tech | Level | Status |
+| Skill / Tech | Proficiency | Status |
 | :--- | :--- | :--- |
-| <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> | Advanced | Active Daily 🟢 |
-| <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> | Intermediate | Building Projects 🟡 |
-| <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /> | Intermediate | Learning & OOP 🟡 |
-| <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> | Beginner / Inter | Frontend Dev 🔵 |
+| <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> | Advanced | Daily Training 🟢 |
+| <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> | Intermediate | Constructing Apps 🟡 |
+| <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /> | Intermediate | OOP Fundamentals 🟡 |
+| <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> | Beginner / Inter | Frontend Spells 🔵 |
 
 </div>
 
-### 🧪 Epic Projects & Quests
+### 🧪 Epic Quests & Main Storyline
 
-* 🌐 **Full-Stack Web App** 🚀 : Interactive frontend integrated with a powerful backend API.
-* 🤖 **Python Utility Scripts** 🐍 : Automating workflows and solving core programmatic tasks.
-* ☕ **Java OOP Applications** 🏗️ : Clean, object-oriented software projects and data structure implementations.
-
----
-
-### 🎯 My Mission & Endgame
-
-🌱 **Grinding Now:** Mastering Full-Stack Development with Python, JS, and Java.  
-💬 **Ultimate Quest:** Build seamless, scalable end-to-end web applications.  
-⚔️ **Current Focus:** Strengthening web architecture, REST APIs, and database integration.
+* 🌐 **Full-Stack Web App** 🚀 : High-level interactive frontend backed by RESTful APIs.
+* 🤖 **Python Utility Scripts** 🐍 : Automating routine tasks with clean code execution.
+* ☕ **Java OOP Projects** 🏗️ : Deep diving into scalable system designs and data structures.
 
 ---
 
-### 🤝 Let's Team Up!
+### 🎯 Endgame Goal & Saga
 
-Ready to vibe on code or build something cool? Hit me up! ☕
+🌱 **Current Training Arc:** Mastering Full-Stack Web Development with Python, JS, and Java.  
+💬 **Ultimate Quest:** Deploying seamless, world-class web applications.  
+⚔️ **Current Focus:** REST APIs, database design, and frontend interactivity.
+
+---
+
+### 🤝 Join the Party!
+
+Ready to form a guild or collaborate on a project? Hit me up! ☕
 
 <p align="center">
-  <a href="https://instagram.com/"arya_yo_123456" target="_blank">
+  <a href="https://instagram.com/arya_yo_123456" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:aryatherockyone@gmail.com">
@@ -165,9 +167,9 @@ Ready to vibe on code or build something cool? Hit me up! ☕
 
 ---
 
-<!-- Anime Tech Cyber Signature -->
+<!-- Anime Tech Signature -->
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=15&pause=2000&color=00F0FF&center=false&vCenter=true&width=350&height=50&lines=%E2%9A%A1+SYSTEM.SIGNED%3A+Arya;%F0%9F%90%BE+DEV%3A+Techno-Arya" alt="Anime Tech Signature" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=14&pause=2000&color=00F0FF&center=false&vCenter=true&width=360&height=50&lines=%E2%9A%A1+SYSTEM.SIGNED%3A+Arya;%F0%9F%90%BE+DEV%3A+Techno-Arya" alt="Anime Tech Signature" />
 </p>
 
 <div align="right">
@@ -182,4 +184,3 @@ Ready to vibe on code or build something cool? Hit me up! ☕
 © 2026 **Arya** (`Techno-arya`). All rights reserved.
 
 </div>
-
