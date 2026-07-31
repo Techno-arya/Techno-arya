@@ -81,7 +81,7 @@ An aspiring Full-Stack Developer slingin' Python, JavaScript, and Java to build 
 
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=%E2%9C%A7%EF%BD%A5%EF%BE%9F%3A+*+%E6%98%87%E7%B4%9A%E4%BE%9D%E9%A0%BC+*+%3A%EF%BD%A5%EF%BE%9F%E2%9C%A7;%F0%9F%93%8A+%E2%9A%94%EF%B8%8F+Hunter+Guild+Stats+%26+Grind" alt="Hunter Guild Stats Heading" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=%E2%9C%A7%EF%BD%A5%EF%BE%9F%3A+*+%E6%98%87%E7%B4%9A%E4%BE%9D%E9%A0%BC+*+%3A%EF%BD%A5%EF%BE%9F%E2%9C%A7;%F0%9F%93%8A+%E2%9A%94%EF%B8%8F+Hunter+Guild+Stats+%26+Grind;%F0%9F%93%8A+%E2%9A%94%EF%B8%8F+Statistiques+de+la+Guilde+%26+Progression" alt="Hunter Guild Stats Heading" />
 </h2>
 
 <div align="center">
