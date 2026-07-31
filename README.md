@@ -23,18 +23,17 @@ An aspiring Full-Stack Developer slingin' Python, JavaScript, and Java to build 
 
 ---
 <div align="center">
-  <h3>🌌 🎧 ⛩️ LOFI BEATS & FULL-STACK FLOW</h3>
-  <p align="center">
+
+### 🌌 🎧 ⛩️ LOFI BEATS & FULL-STACK FLOW
+
+<p align="center">
   <a href="https://open.spotify.com" target="_blank">
-    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
+    <img src="https://spotify-github-profile.shin3016.workers.dev/api/spotify" alt="Spotify Now Playing" />
   </a>
-  <img src="https://img.shields.io/badge/Now_Spinning-Hennessy_%E2%80%A2_3umph-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Now Spinning" />
-    <img src="https://img.shields.io/badge/Stack_Flow-Python_%E2%80%A2_JS_%E2%80%A2_Java-00F0FF?style=for-the-badge&logo=codeforces&logoColor=black" alt="Full Stack Flow" />
+  <br/>
+  <img src="https://img.shields.io/badge/Stack_Flow-Python_%E2%80%A2_JS_%E2%80%A2_Java-00F0FF?style=for-the-badge&logo=codeforces&logoColor=black" alt="Stack Flow" />
 </p>
 
-  <p align="center">
-    <sub>⚡ [ SOUNDTRACK OF THE CODE GRIND — ULTIMATE FLOW ] ⚡</sub>
-  </p>
 </div>
 ---
 
